@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:cdwalite="https://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd" xml:id="Arte-universo-di-relazioni">
+	<author xml:id="ACR">
+		<object n="2" xml:id="Il-Battesimo-di-Cristo-nel-Giordano">
+			
+			<dc:identifier type="ICCD" ref="https://catalogo.beniculturali.it/0800030538-2">0800030538-2</dc:identifier>
+
+			<dc:title type="ICCD" ref="https://catalogo.beniculturali.it/0800030538-2">Il battesimo di Cristo nel Giordano</dc:title>
+			<cdwalite:titleWrap>
+				<cdwalite:titleSet>
+					<cdwalite:title lang="Italian">Il battesimo di Cristo nel Giordano</cdwalite:title>
+				</cdwalite:titleSet>
+				<cdwalite:sourceTitle>Catalogo Generale dei Beni Culturali</cdwalite:sourceTitle>
+			</cdwalite:titleWrap>
+			<dc:subject>art, decorative art, paintings, Annibale Carracci, baroque, religious art, oil paintings</dc:subject>
+
+			<dc:source xml:id="CGBC">Catalogo Generale dei Beni Culturali</dc:source>
+			<dc:author>Annibale Carracci</dc:author>
+			<dc:date type="subject">1560-1609</dc:date>
+			<cdwalite:displayCreator>Annibale Carracci (Italiano, 1560-1609)</cdwalite:displayCreator>
+			<cdwalite:indexingCreatorWrap>
+				<cdwalite:indexingCreatorSet>
+					<cdwalite:NameCreatorSet>
+						<cdwalite:NameCreator type="personalname" termsource="VIAF" termsourceID="12405951">Annibale Carracci</cdwalite:NameCreator>
+						</cdwalite:NameCreatorSet>
+						<cdwalite:nationalityCreator>Italiana</cdwalite:nationalityCreator>
+						<cdwalite:sourceNameCreator> Catalogo generale dei Beni Culturali
+						</cdwalite:sourceNameCreator>
+						<cdwalite:genderCreator>maschile</cdwalite:genderCreator>
+						<cdwalite:vitaldatesCreator birthdate="1560" deathdate="1609">1560-1609</cdwalite:vitaldatesCreator>
+						<cdwalite:roleCreator termsource="AAT" termsourceID="aat300411314">pittore</cdwalite:roleCreator>
+				</cdwalite:indexingCreatorSet>
+			</cdwalite:indexingCreatorWrap>
+
+
+		<dc:type>Dipinto</dc:type>
+		<cdwalite:objectWorkTypeWrap>
+			<cdwalite:objectWorkType termsource="AAT" termsourceID="aat300178684"> oil painting </cdwalite:objectWorkType>
+			<cdwalite:objectWorkType termsource="AAT" termsourceID="aat300386201"> altarpiece </cdwalite:objectWorkType>
+		</cdwalite:objectWorkTypeWrap>
+		<cdwalite:styleWrap>
+			<cdwalite:style termsource="AAT" termsourceID="aat300021147">barocco</cdwalite:style>
+		</cdwalite:styleWrap>
+
+		<dc:subject>Arti Visive</dc:subject>
+		<cdwalite:classificationWrap>
+			<cdwalite:classification termsource="AAT" termsourceID="aat300265015">dipinti</cdwalite:classification>
+			<cdwalite:classification termsource="AAT" termsourceID="aat300075940">pala d'altare</cdwalite:classification>
+		</cdwalite:classificationWrap>
+
+		<dc:date type="creation">1585</dc:date>
+		<cdwalite:displayCreationDate>1585</cdwalite:displayCreationDate>
+		<cdwalite:indexingDatesWrap>
+			<cdwalite:indexingDatesSet>
+				<cdwalite:Date>1585</cdwalite:Date>
+			</cdwalite:indexingDatesSet>
+		</cdwalite:indexingDatesWrap>
+
+		<dc:type>tela, pittura a olio</dc:type>
+		<cdwalite:displayMaterialsTech>
+			tela, pittura a olio
+		</cdwalite:displayMaterialsTech>
+			<cdwalite:indexingMaterialsTechWrap>
+				<cdwalite:indexingMaterialsTechSet>
+					<cdwalite:termMaterialsTech termsource="AAT" termsourceID="aat300178684"> pittura a olio</cdwalite:termMaterialsTech>
+					<cdwalite:termMaterialsTech termsource="AAT" termsourceID="aat300410350" type="support">tela </cdwalite:termMaterialsTech>
+				</cdwalite:indexingMaterialsTechSet>
+			</cdwalite:indexingMaterialsTechWrap>
+
+			<cdwalite:styleWrap>
+				<cdwalite:style termsource="AAT" termsourceID="aat300021147">barocco </cdwalite:style>
+			</cdwalite:styleWrap>
+		
+
+			<cdwalite:indexingSubjectWrap>
+				<cdwalite:indexingSubjectSet>
+					<cdwalite:subjectTerm>Il battesimo di Cristo nel Giordano</cdwalite:subjectTerm>
+					<cdwalite:subjectTerm type="conceptTerm" termsource="AAT" termsourceID="aat300015637"> portrait </cdwalite:subjectTerm>
+					<cdwalite:subjectTerm type="personalName"> S.Giovanni </cdwalite:subjectTerm>
+					<cdwalite:subjectTerm type="personalName"> Cristo </cdwalite:subjectTerm>
+				</cdwalite:indexingSubjectSet>
+
+				<cdwalite:indexingSubjectSet type="description">
+					<cdwalite:subjectTerm type="conceptTerm"> scena del battesimo </cdwalite:subjectTerm>
+					<cdwalite:subjectTerm type="conceptTerm"> Fiume Giordano </cdwalite:subjectTerm>
+					<cdwalite:subjectTerm type="conceptTerm"> acqua </cdwalite:subjectTerm>
+				</cdwalite:indexingSubjectSet>
+
+				<cdwalite:indexingSubjectSet type="interpretation">
+				<cdwalite:subjectTerm type="conceptTerm"> ricevimento del santo battesimo </cdwalite:subjectTerm>
+				<cdwalite:subjectTerm type="conceptTerm"> Liberazione dal peccato </cdwalite:subjectTerm>
+				<cdwalite:subjectTerm type="conceptTerm"> Grazia e solennità della scena </cdwalite:subjectTerm>
+				</cdwalite:indexingSubjectSet>	
+			</cdwalite:indexingSubjectWrap>
+
+		<dc:format>383x225cm</dc:format>
+			<cdwalite:displayMeasurements>383x225cm </cdwalite:displayMeasurements>
+			<cdwalite:indexingMeasurementsWrap>
+				<cdwalite:indexingMeasurementSet>
+					<cdwalite:measurementsSet value="383" unit="cm" type="width">
+					</cdwalite:measurementsSet>
+					<cdwalite:measurementsSet value="225" unit="cm" type="height">
+					</cdwalite:measurementsSet>
+				</cdwalite:indexingMeasurementSet>
+			</cdwalite:indexingMeasurementsWrap>
+
+
+		<dc:coverage type="TGN" ref="http://vocab.getty.edu/page/tgn/7030349"> Italia </dc:coverage>
+		<dc:coverage type="TGN" ref="http://vocab.getty.edu/page/tgn/7003127">Bologna</dc:coverage>
+		<dc:coverage>Chiesa dei Santi Gregorio e Siro, Bologna</dc:coverage>
+			<cdwalite:locationWrap>
+				<cdwalite:locationSet>
+					<cdwalite:locationName type="currentRepository">Chiesa di Santi Gregorio e Siro, Bologna</cdwalite:locationName>
+				</cdwalite:locationSet>
+			</cdwalite:locationWrap>
+
+		<dc:subject>art, decorative art, paintings, Annibale Carracci, baroque, religious art</dc:subject>
+		<dc:description xml:lang="it">Notizie storico-critiche: Nel dipinto è evidente la dedicazione della cappella al Battista e alla Trinità. Il dipinto, momento nodale della pittura di Annibale, rende evidente la comprensione e l'evoluzione baroccesca e correggesca del pittore. La letteratura artistica antica, almeno prima della scoperta dell'iscrizione con la data esatta <date>(1585)</date>, avvenuta nel 1920, ne fa oscillare la datazione tra 1578 e 1580. Boschloo (1974) rintraccia per via documentaria, la data della commessa del dipinto al pittore, avvenuta già a partire dal 1583. Una recente supposizione critica porta a collocare l'esecuzione della parte bassa della pala nell'anno 1584 mentre la parte alta, quella della gloria celeste, sarebbe stata eseguita da Annibale dopo un soggiorno parmense, sotto l'influsso dell'esperienza visiva di Correggio (Emiliani 1984). Sono conosciuti due disegni preparatori conservati uno al Louvre, l'altro al British Museum</dc:description>
+
+		<cdwalite:descriptiveNoteWrap>
+			<cdwalite:descriptiveNoteSet>
+				<cdwalite:descriptiveNote>Notizie storico-critiche: Nel dipinto è evidente la dedicazione della cappella al Battista e alla Trinità. Il dipinto, momento nodale della pittura di Annibale, rende evidente la comprensione e l'evoluzione baroccesca e correggesca del pittore. La letteratura artistica antica, almeno prima della scoperta dell'iscrizione con la data esatta (1585), avvenuta nel 1920, ne fa oscillare la datazione tra 1578 e 1580. Boschloo (1974) rintraccia per via documentaria, la data della commessa del dipinto al pittore, avvenuta già a partire dal 1583. Una recente supposizione critica porta a collocare l'esecuzione della parte bassa della pala nell'anno 1584 mentre la parte alta, quella della gloria celeste, sarebbe stata eseguita da Annibale dopo un soggiorno parmense, sotto l'influsso dell'esperienza visiva di Correggio (Emiliani 1984). Sono conosciuti due disegni preparatori conservati uno al Louvre, l'altro al British Museum</cdwalite:descriptiveNote>
+			</cdwalite:descriptiveNoteSet>
+		</cdwalite:descriptiveNoteWrap>
+
+		<cdwalite:recordWrap>
+				<cdwalite:recordID>0800030538-2</cdwalite:recordID>
+				<cdwalite:recordSource type="ICCD">Sito del Catalogo Generale dei Beni Culturali</cdwalite:recordSource>
+				<cdwalite:recordInfoLink>https://catalogo.beniculturali.it/</cdwalite:recordInfoLink>
+				<cdwalite:recordType>Oggetto d'arte</cdwalite:recordType>
+			</cdwalite:recordWrap>
+
+		<dc:source xml:id="CGBC">Catalogo Generale dei Beni Culturali</dc:source>
+		<cdwalite:resourceWrap>
+			<cdwalite:resouceSet>
+				<cdwalite:resourceID>
+				<cdwalite:linkResource>https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0800030538-2</cdwalite:linkResource>
+				</cdwalite:resourceID>
+			</cdwalite:resouceSet>
+		</cdwalite:resourceWrap>
+
+		<dc:rights>Proprietà Ente religioso cattolico</dc:rights>
+		<cdwalite:rightsWork>proprietà Ente religioso cattolico</cdwalite:rightsWork>
+	</object>
+</author>
+</item>

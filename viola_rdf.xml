@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/"> 
+<rdf:Description rdf:about="http://info:iccd/0300180276">
+	<dc:creator rdf:resource="http://viaf.org/viaf/3611149662181507020007">Guido cagnacci</dc:creator>
+	<dc:coverage rdf:resource="https://www.geonames.org/3173435/milan.html">Milano</dc:coverage>
+</rdf:Description> 
+</rdf:RDF>

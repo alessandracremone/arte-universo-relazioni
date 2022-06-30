@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+ <teiHeader>
+ 	<fileDesc>
+ 		<titleStmt>
+ 			<title>Maestri della pittura del Seicento emiliano</title> 
+ 			<author ref="MC">Michela Scolaro</author>
+			<respStmt>
+				<resp>editor</resp>
+				<name xml:id="MS">Michela Scolaro</name>
+			</respStmt>
+ 		 	<respStmt xml:id="VM">
+ 				<resp>Marked in XML//TEI by</resp>
+				<name>Viola Mureddu</name>
+			</respStmt>	
+ 		</titleStmt>
+ 		<publicationStmt>
+			<publisher>Arte un universo di relazioni</publisher>
+			<date>2022</date>
+			<availability>
+				<p>No commercial use</p>
+			</availability>
+		</publicationStmt>
+ 		<sourceDesc>
+			<bibl>
+				<title>I maestri della pittura del Seicento emiliano</title>
+				<author>Michela Scolaro</author>
+				<publisher> Rolo Banca 1473</publisher>
+				<date>2002</date>
+			</bibl>
+		</sourceDesc>
+ 	</fileDesc>
+ 	<profileDesc>
+	  <particDesc>
+		<listPerson type="cited-author">
+			<person xml:id="GR">
+				<persName sameAs="http://viaf.org/viaf/49288294/">Guido Reni</persName>
+			</person>
+			<person xml:id="ANC">
+				<persName sameAs="https://viaf.org/viaf/12405951/">Annibale Carracci</persName>
+			</person>
+			<person xml:id="LC">
+				<persName sameAs="https://viaf.org/viaf/29596926">Ludovico Carracci</persName>
+			</person>
+			<person xml:id="RL">
+				<persName sameAs="https://viaf.org/viaf/39380437">Roberto Longhi</persName>
+			</person>
+			<person xml:id="AG">
+				<persName sameAs="http://viaf.org/viaf/238072505">Alberto Graziani</persName>
+			</person>
+			<person xml:id="FA">
+				<persName sameAs="https://viaf.org/viaf/4977457">Francesco Arcangeli</persName>
+			</person>
+			<person xml:id="GB">
+				<persName sameAs="http://viaf.org/viaf/38017204">Gian Battista Cavalcaselle</persName>
+			</person>
+			<person xml:id="AG">
+				<persName sameAs="http://viaf.org/viaf/89788412">Antonio Gnudi</persName>
+			</person>
+			<person xml:id="CV">
+				<persName sameAs="https://viaf.org/viaf/88782206">Carlo Volpe</persName>
+			</person>
+			<person xml:id="FA">
+				<persName sameAs="http://viaf.org/viaf/69070806">Francesco Albani</persName>
+			</person>
+			<person xml:id="DZ">
+				<persName sameAs="https://viaf.org/viaf/56618267">Domenico Zampieri detto Dominichino</persName>
+			</person>
+			<person xml:id="GC">
+				<persName sameAs="https://viaf.org/viaf/2743155">Cavedone Giacomo</persName>
+			</person>
+			<person xml:id="LM">
+				<persName sameAs="https://viaf.org/viaf/89763884">Lucio Massari</persName>
+			</person>
+			<person xml:id="LG">
+				<persName sameAs="https://viaf.org/viaf/95793898">Lorenzo Garbieri</persName>
+			</person>
+			<person xml:id="">
+				<persName sameAs="https://viaf.org/viaf/47658559">Alessandro Tiarini</persName>
+			</person>
+			<person xml:id="FB">
+				<persName sameAs="https://viaf.org/viaf/9911599">Francesco Brizio</persName>
+			</person>
+			<person xml:id="PF">
+				<persName sameAs="https://viaf.org/viaf/121675391">Pietro Facini</persName>
+			</person>
+			<person xml:id="PC">
+				<persName sameAs="https://viaf.org/viaf/95782556">Paolo Castelli</persName>
+			</person>
+			<person xml:id="GAD">
+				<persName sameAs="https://viaf.org/viaf/45100769">Giovanni Andrea Donducci dit Il Mastelletta</persName>
+			</person>
+			<person xml:id="">
+				<persName sameAs=""> </persName>
+			</person>
+		</listPerson>
+	  </particDesc>
+	 </profileDesc>
+ </teiHeader>
+ <text xml:lang="it">
+ 	<front>
+ 		<titlePage>
+ 			<docTitle>Maestri della pittura del 
+ 				<date notBefore="1600" notAfter="1699">Seicento</date> 
+ 				emiliano
+ 			</docTitle>
+ 			<docAuthor>Michela Scolaro</docAuthor>
+ 		</titlePage>
+ 	</front>
+ 	<body>
+	 	<p>
+		 	Dopo le esposizioni di 
+		 	<persName ref="#GR">Guido Reni</persName>
+		 	, nel 
+		 	<date when="1954">1954</date>
+		 	, e dei 
+		 	<persName role="painters">Carracci</persName> 
+		 	<date when="1956">due anni dopo</date>
+		 	, una mostra destinata a tracciare una serie molteplice di itinerari possibili e, anzi, probabili direttamente sul corpo vivo della città e delle campagne dell’
+		 	<placeName>
+		 	 <region>Emilia</region>
+		 	</placeName>
+		 	e della 
+		 	<placeName>
+		 	 <region>Romagna</region>
+		 	</placeName> veniva a rispondere a un’esigenza che da tempo era entrata nei desideri di molti tra studiosi, già impegnati nella ricchezza indiscutibile del secolo barocco con analisi e studi, come spesso con ricerche di tesi universitarie talora di vero prestigio conoscitivo. 
+	 	</p>
+		<p>
+			Il modello itinerario e periegetico, che si rifaceva direttamente alla 
+			Kunstliteratur
+			artistica settecentesca, così precisa e fluente nelle nostre province, veniva direttamente dall’esempio di 
+			<persName ref="#RL">Roberto Longhi</persName>
+			. Messo a punto e, per così dire, ulteriormente riscaldato ed euforizzato fu poi quello di 
+			<persName ref="#FA">Francesco Arcangeli</persName>
+			, per quantità di scoperte, di verifiche possibili, di chiarimenti e, infine, di esplicite e ripetute identificazioni. 
+		</p>
+		<p>
+			Rileggere le lettere scambiate tra lui e 
+			<persName ref="#AG">Alberto Graziani</persName>
+			, negli anni 
+			<date from="1938" to="1940">1938-1940</date>
+			, vuol dire ripercorrere, insieme alle brevi stagioni della giovinezza, i paesaggi di queste campagne quiete, percorse da strade bianche e abitate da chiese parrocchiali aperte sull’afa dell’estate. Improvvisi, sulla collina, affrontata inevitabilmente in bicicletta, i borghi più ricchi, le chiese fitte di dipinti interessanti, interrogativi e, spesso, rilevati da una conoscenza che ritornava a vivere con disegni e appunti, come nelle mani di 
+			<persName ref="#GBC">Cavalcaselle</persName>
+			.  
+		</p>
+		<p>
+			Il disegno generale della mostra del 
+			<date when="1959">1959</date>
+			 fu, dunque, principalmente costruito da 
+			<persName ref="#FA">Arcangeli</persName>
+			 , possessore di un affetto odeporico particolare. Ma anche 
+			<persName ref="#AG">Gnudi</persName> 
+			poteva vantare un’energia pedatoria inestinguibile e amava entrare ovunque fosse possibile e incominciare a pensare, già in quegli anni lontani, alla necessità di fondare una più generale conoscenza figurativa, mettendo mano al lavoro nel catalogo dei beni artistici dello 
+			<placeName ref="Italia">Stato</placeName>
+			, affrontato un poco nell’
+			<date notAfter="1939">anteguerra</date> 
+			e presto abbandonato. Un capacissimo, caparbio conoscitore si rivelava in quegli anni stessi 
+			<persName ref="#CV" type="linked">Carlo Volpe</persName>
+			, assistente all’
+			<placeName>
+				<name ref="Università degli studi di Bologna">Università</name> 
+			</placeName>
+			e redattore di “
+			<name type="rivista d'arte">Paragone</name>
+			”.
+		</p>
+		<p>  
+			Furono così fondate, come archivi iniziali della conoscenza a venire, le biografie degli artisti stampate in quel catalogo ben abbozzato e dotato di una bibliografia ancora oggi invidiabile. Erano quelle dei maestri delle scuole e delle botteghe delle città grandi e minori, dei centri e delle periferie, delle chiese e delle concentrazioni di comunità conventuali, degli oratori e dei santuari.
+		</p>
+		<p>
+			Dopo le grandi esperienze basilari (
+			<persName>
+			 <surname>Carracci</surname>
+			</persName>
+			, 
+			<persName ref="#GR">Reni</persName> 
+			, 
+			<persName ref="FA">Albani</persName> 
+			e  
+			<persName ref="#DZ">Domenichino</persName>) 
+			, la conoscenza prendeva definitivamente corpo proprio sui sentieri attraenti del “grande stile” decoroso della scuola di 
+			<persName ref="#LC">Ludovico Carracci</persName>
+			 , come 
+			<persName ref="#GC">Cavedone</persName>
+			 , 
+			<persName ref="#LG">Massari</persName>
+			, 
+			<persName ref="#LG">Garbieri</persName>
+			, 
+			<persName ref="#AT">Tiarini</persName>
+			 , 
+			<persName ref="#FB">Brizio</persName>
+			e, poco più in là, gli “irregolari” come 
+			<persName ref="#PF">Facini</persName>
+			,  
+			<persName ref="#PC">Castelli</persName>
+			e lo stesso 
+			<persName ref="#GAM">Mastelletta</persName>
+			. Fondamentale fu il lavoro condotto sul rapporto fra centro e periferia, l’indice spostato dalle capitali come 
+			<placeName>
+			 <name type="city">Parma</name>
+			</placeName> 
+			e 
+			<placeName>
+			 <name type="city">Piacenza</name>
+			</placeName>
+			, 
+			<placeName>
+			 <name type="city">Modena</name>
+			</placeName> 
+			e 
+			<placeName>
+			 <name type="city">Reggio</name>
+			</placeName>
+			, 
+			<placeName>
+			 <name type="city">Ferrara</name>
+			</placeName> 
+			e poi 
+			<placeName>
+			 <name type="city">Bologna</name>
+			</placeName> 
+			e, infine, le otto sorelle romagnole, da 
+			<placeName>
+			 <name type="city">Imola</name>
+			</placeName> 
+			e 
+			<placeName>
+			 <name type="city">Rimini</name>
+			</placeName>
+			. La mostra, in tal modo, insegnò il metodo dei flussi e delle concentrazioni e, dunque, delle vie di comunicazione e delle chiese attestate sulla 
+			<placeName xml:id="via-emilia">via Emilia</placeName> 
+			come sui rilievi 
+			<placeName>appenninici</placeName>
+			, tensioni di ripetuti centri storici e, a settentrione, addensamento di corti di famose e potenti signorìe. Nuove e diverse forze di creatività, di protagonismo e di confronto con 
+			<placeName>
+			 <name type="city">Roma</name>
+			</placeName>
+			  o con 
+			<placeName>
+			 <name type="city">Venezia</name>.
+			</placeName>
+		</p>  
+		<p>
+			Ebbero spazio nell’esposizione alcune decine di artisti, espressi da una filiera di 
+			<num>venti</num> 
+			e più centri abitati, con un numero adeguato di dipinti, spesso di grande formato (la pala d’altare resta centrale nel mondo emiliano), restauri esemplari e grande chiarezza di tracciati biografici, di collezioni e di concentrazione di opere a fresco. Una mostra di dilatati confini che servì di modello per molte ricerche scientifiche, per analisi serie del territorio e della stessa urbanistica storica e che mise in movimento piani di catalogazione e programmi di restauro; una mostra che sarebbe opportuno e necessario dedicare a ogni provincia italiana. 
+		</p>
+	</body>
+ </text>
+</TEI>

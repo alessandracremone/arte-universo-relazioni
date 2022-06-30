@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/terms/">
+	<rdf:Description rdf:about="http://info:iccd/0800030538-2">
+		<dc:creator rdf:resource="http://viaf.org/12405951"/>
+		<dc:coverage rdf:resource="http://geonames.org/3181928/"/>
+		<dc:type rdf:resource="getty.edu/aat/300178684/"/>
+	</rdf:Description>
+</rdf:RDF>

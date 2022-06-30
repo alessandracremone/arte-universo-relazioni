@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:cdwalite="https://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd" xml:id="Arte-universo-di-relazioni">
+	<author xml:id="ACR">
+		<object n="1" xml:id="Annunciazione-LC">
+
+			<dc:identifier type="ICCD" ref="https://catalogo.beniculturali.it/0800051404">0800051404</dc:identifier>
+			
+			<dc:title type="ICCD" ref="https://catalogo.beniculturali.it/0800051404">L'annunciazione</dc:title>
+			<cdwalite:titleWrap>
+				<cdwalite:titleSet>
+					<cdwalite:title lang="Italian">L'annunciazione</cdwalite:title>
+					</cdwalite:titleSet>
+				<cdwalite:sourceTitle>Catalogo Generale dei Beni Culturali</cdwalite:sourceTitle>
+			</cdwalite:titleWrap>
+
+			<dc:creator>Ludovico Carracci</dc:creator>
+			<dc:date type="subject">1555-1619</dc:date>
+			<cdwalite:displayCreator>Ludovico Carracci (Italiano, 1555-1619)</cdwalite:displayCreator>
+			<cdwalite:indexingCreatorWrap>
+			<cdwalite:indexingCreatorSet>
+				<cdwalite:nameCreatorSet>
+					<cdwalite:nameCreator type="personalName" termsource="VIAF" termsourceID="29596926"> Carracci, Ludovico
+					</cdwalite:nameCreator>
+				</cdwalite:nameCreatorSet>
+				<cdwalite:sourceNameCreator> Catalogo generale dei Beni Culturali
+				</cdwalite:sourceNameCreator>
+				<cdwalite:genderCreator>Maschile</cdwalite:genderCreator>
+				<cdwalite:nationalityCreator>Italiana </cdwalite:nationalityCreator>
+				<cdwalite:vitalDatesCreator birthdate="1555" deathdate="1619"> 1555-1619</cdwalite:vitalDatesCreator>
+				<cdwalite:roleCreator termsource="AAT" termsourceID="aat300411314">pittore</cdwalite:roleCreator>
+			</cdwalite:indexingCreatorSet>
+		</cdwalite:indexingCreatorWrap>
+
+		<dc:type>Dipinto</dc:type>
+		<cdwalite:objectWorkTypeWrap>
+			<cdwalite:objectWorkType termsource="AAT" termsourceID="aat300178684"> oil painting </cdwalite:objectWorkType>
+		</cdwalite:objectWorkTypeWrap>
+		<cdwalite:styleWrap>
+			<cdwalite:style termsource="AAT" termsourceID="aat300021147">barocco</cdwalite:style>
+		</cdwalite:styleWrap>
+
+		<dc:subject>Arti Visive</dc:subject>
+		<cdwalite:classificationWrap>
+			<cdwalite:classification termsource="AAT" termsourceID="aat300265015">Dipinti</cdwalite:classification>
+			<cdwalite:classification termsource="AAT" termsourceID="aat300056507">visual art</cdwalite:classification>
+		</cdwalite:classificationWrap>
+
+		<dc:date type="creation">1597-1598</dc:date>
+		<cdwalite:displayCreationDate>1597-1598</cdwalite:displayCreationDate>
+		<cdwalite:indexingDatesWrap>
+			<cdwalite:indexingDatesSet>
+				<cdwalite:earliestDate>1597</cdwalite:earliestDate>
+				<cdwalite:latestDate>1598</cdwalite:latestDate>
+			</cdwalite:indexingDatesSet>
+		</cdwalite:indexingDatesWrap>
+
+		<dc:type>tela, pittura a olio</dc:type>
+		<cdwalite:displayMaterialsTech>
+			tela, pittura a olio
+		</cdwalite:displayMaterialsTech>
+		<cdwalite:indexingMaterialsTechWrap>
+		<cdwalite:indexingMaterialsTechSet>
+			<cdwalite:termMaterialsTech termsource="AAT" termsourceID="aat300178684"> pittura a olio</cdwalite:termMaterialsTech>
+			<cdwalite:termMaterialsTech termsource="AAT" termsourceID="aat300410350" type="support">tela </cdwalite:termMaterialsTech>
+		</cdwalite:indexingMaterialsTechSet>
+		</cdwalite:indexingMaterialsTechWrap>
+
+		<cdwalite:indexingSubjectWrap>
+				<cdwalite:indexingSubjectSet>
+					<cdwalite:subjectTerm>L'annunciazione</cdwalite:subjectTerm>
+					<cdwalite:subjectTerm type="conceptTerm" termsource="AAT" termsourceID="aat300015637"> portrait </cdwalite:subjectTerm>
+					<cdwalite:subjectTerm type="personalName"> Vergine Maria </cdwalite:subjectTerm>
+					<cdwalite:subjectTerm type="personalName"> Arcangelo Gabriele </cdwalite:subjectTerm>
+				</cdwalite:indexingSubjectSet>
+
+				<cdwalite:indexingSubjectSet type="description">
+					<cdwalite:subjectTerm type="conceptTerm"> scena d'interno </cdwalite:subjectTerm>
+					<cdwalite:subjectTerm type="conceptTerm"> angelo </cdwalite:subjectTerm>
+					<cdwalite:subjectTerm type="conceptTerm"> giglio </cdwalite:subjectTerm>
+					<cdwalite:subjectTerm type="conceptTerm"> attesa </cdwalite:subjectTerm>
+				</cdwalite:indexingSubjectSet>
+
+				<cdwalite:indexingSubjectSet type="interpretation">
+				<cdwalite:subjectTerm type="conceptTerm"> Arrivo della divina annunciazione </cdwalite:subjectTerm>
+				<cdwalite:subjectTerm type="conceptTerm"> Pace </cdwalite:subjectTerm>
+				<cdwalite:subjectTerm type="conceptTerm"> Grazia e armonia della scena </cdwalite:subjectTerm>
+			</cdwalite:indexingSubjectSet>	
+		</cdwalite:indexingSubjectWrap>
+
+	
+	<dc:format>50</dc:format>
+		<cdwalite:displayMeasurements> 50 </cdwalite:displayMeasurements>
+		<cdwalite:indexingMeasurementsWrap>
+			<cdwalite:indexingMeasurementsSet>
+				<cdwalite:measurementSet value="50" unit="cm" type="height">
+					</cdwalite:measurementSet>
+				</cdwalite:indexingMeasurementsSet>
+			</cdwalite:indexingMeasurementsWrap>
+
+	<dc:coverage type="TGN" ref="http://vocab.getty.edu/page/tgn/7030349"> Italia </dc:coverage>
+	<dc:provenance>Basilica di S. Domenico</dc:provenance>
+	<dc:coverage ref="http://vocab.getty.edu/page/tgn/7003127">Bologna</dc:coverage>
+	<dc:coverage>Piazza, San Domenico, 13, Bologna (BO)</dc:coverage>
+	<cdwalite:locationWrap>
+			<cdwalite:locationSet>
+				<cdwalite:locationName type="currentRepository">Basilica di S.Domenico </cdwalite:locationName>
+			</cdwalite:locationSet>
+		</cdwalite:locationWrap>
+
+		<dc:subject>art, decorative art, paintings, Ludovico Carracci, baroque, religious art</dc:subject>
+		<dc:description xml:lang="it">
+			Semplice composizione molto lontana dal linguaggio manierista, che recupera nel coro angelico elementi culturali parmensi coniugati con l'acceso cromatismo della tavolina "profondamente memore della pittura veneta" (Scaglietti 
+			<date>1988</date>)
+		</dc:description>
+		<cdwalite:descriptiveNoteWrap>
+			<cdwalite:descriptiveNoteSet>
+				<cdwalite:descriptiveNote>Semplice composizione molto lontana dal linguaggio manierista, che recupera nel coro angelico elementi culturali parmensi coniugati con l'acceso cromatismo della tavolina "profondamente memore della pittura veneta" (Scaglietti 1988)</cdwalite:descriptiveNote>
+			</cdwalite:descriptiveNoteSet>
+		</cdwalite:descriptiveNoteWrap>
+
+		<cdwalite:recordWrap>
+				<cdwalite:recordID>0800051404</cdwalite:recordID>
+				<cdwalite:recordType>Oggetto d'arte</cdwalite:recordType>
+				<cdwalite:recordSource type="ICCD">Sito del Catalogo Generale dei Beni Culturali/</cdwalite:recordSource>
+				<cdwalite:recordInfoLink>https://catalogo.beniculturali.it/</cdwalite:recordInfoLink>
+			</cdwalite:recordWrap>
+
+		<dc:source xml:id="CGBC">Catalogo Generale dei Beni Culturali</dc:source>
+		<cdwalite:resourceWrap>
+			<cdwalite:resouceSet>
+				<cdwalite:resourceID>
+				<cdwalite:linkResource>https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0800051404</cdwalite:linkResource>
+				</cdwalite:resourceID>
+			</cdwalite:resouceSet>
+		</cdwalite:resourceWrap>
+
+		<dc:rights>Proprietà Stato</dc:rights>
+		<cdwalite:rightsWork>Proprietà Stato</cdwalite:rightsWork>
+	</object>
+</author>
+</item>

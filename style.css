@@ -1,0 +1,570 @@
+body{font-family: 'Helvetica', sans-serif;}
+
+.image{background-image:url("img/foto.jpg");
+	background-size:cover;
+	height:500px;
+	background-repeat: no-repeat;}
+
+.imagesfocata{background-image:url("img/fotosfocata.jpg");
+	height:100%;}
+
+.white{color:white;
+    font-family: Raleway;
+    text-align: center;
+	margin-top:200px;}
+
+.testohome{color:white;
+    font-family: Raleway;
+    text-align: center;
+    margin-top:-200px;}
+
+.opacity{
+    opacity:0.8;}
+
+.fontluoghi{color:black;
+    font-family: 'Raleway';
+    text-align: center;
+	margin-top:200px;}
+
+.fontnero{color:black;
+    font-family: 'Raleway';
+    text-align: center;
+	margin-top:90px;}
+
+.corsivo{font-family: 'Raleway extralight';
+	margin-top: 0px;
+	font-size: 20px;}
+
+.nero{background-color:black;
+    height:400px;}
+
+.nero1{background-color:black;
+    height:400px;}
+
+.nero2{background-color:black;
+    height:100%;}
+
+
+.paragrafo{color:white;
+	padding:60px;
+	font-family: 'Raleway extralight';}
+
+.paragrafo2{color:white;
+	margin:20px;
+	padding:60px;
+	font-family: Raleway extralight;}
+
+.bianco{color:white;
+	font-size:60px;}
+
+.titoloprogetto{color:white;
+    font-family: Raleway;
+    margin-top:130px;
+    margin-left:80px;
+    margin-bottom:50px;}
+
+.titolotesto{color:black;
+    font-family: Raleway;
+    margin-top:130px;
+    margin-left:80px;
+    margin-bottom:50px;}
+
+.testopiccolo{color:black;
+    font-family: Raleway;
+    margin-top:10px;
+    margin-left:80px;
+    margin-bottom:40px;}
+
+.testoabout{color:black;
+    font-family: Raleway;
+    margin-top:10px;
+    margin-bottom:60px;
+    padding-left:80px;
+    padding-right:80px;
+    font-size:14px;}
+
+.linkbianco{
+    color:white;}
+
+.linkbianco:hover{
+    font-size: 18px;
+    color:white;
+    transition: 0.8s;}
+
+.material-symbols-outlined{
+ 	color:white;
+ 	margin-left:60px;
+ 	font-size: 30px;}
+
+.material-symbols-outlined:hover {
+    font-size: 40px;
+    transition-duration: 0.8s;}
+
+@media only screen and (max-width: 575px) {
+    .material-symbols-outlined{
+        margin-left:10px;}
+    }
+
+.p-opere{margin-top:50px;
+    font-size:12pt;
+    font-family:'Raleway';
+    text-decoration:underline;
+    padding-left:30px;}
+
+.testoinnero{padding:30px;
+    color:white;
+    font-size:16pt;
+    margin-bottom:-40px;
+    margin-left:50px;}
+
+.piccolo{font-size:20px;}
+
+.btn-primary {background-color: black;
+	border-color: black;}
+
+.btn-primary:hover {background-color: white;
+    border-color: black;
+    color:black;}
+
+.btn-primary1 {background-color: white;
+    border-color: black;}
+
+.btn-primary1:hover {background-color: black;
+    border-color: white;
+    color:white;}
+
+.btn-outline-success:hover{background-color:#94a389;
+    border-color:#94a389;}
+
+.card{
+	margin:60px auto;}
+
+.card:hover{
+    box-shadow: 10px 10px 30px 10px #e4e7ed;}
+
+.opere{width: 18rem;}
+
+@media only screen and (max-width: 1399px) {
+    .opere{
+        width:24rem;
+    }
+}
+
+.operelato{width:14rem;}
+
+@media only screen and (max-width: 1399px) {
+    .operelato{
+        width:12rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .operelato{
+        width:20rem;
+    }
+}
+
+
+.fianco{
+    margin-top:50px;}
+
+@media only screen and (max-width: 991px) {
+    .hidden{
+        display:none;
+    }
+}
+
+.image1{background-image:url("img/mado.jpg");
+	background-size:cover;
+	height:500px;
+	background-repeat: no-repeat;}
+
+.image2{background-image:url("img/accademia.jpg");
+	background-size:cover;
+	height:500px;
+	background-repeat: no-repeat;}
+
+.link{text-decoration: none;
+    color:black;}
+
+.link:hover{color:gray;}
+
+footer{
+    background-color:#94a389;
+	height:100%;}
+
+.parafooter{
+	color:white;
+	margin:50px auto;
+	padding-left:50px;}
+
+.para{
+	color:white;
+	margin:50px auto;
+    font-size:20px;}
+
+.scritte{padding:50px;
+	color:white;
+	font-size:16pt;}
+
+.testifooter{padding-left:50px;
+	color:white;
+	font-size:12pt;
+	margin-top:-15px;}
+
+.fixed{position:fixed;
+	top:0;
+	right:0;
+	left:0;
+	z-index:1000;
+}
+
+.progettopara{padding-left:80px;
+	padding-right:80px;
+    color:white;
+    font-size:14px;
+    margin-bottom:50px;}
+
+.testopara{padding-left:80px;
+    padding-right:80px;
+    color:black;
+    font-size:14px;
+    margin-bottom:80px;}
+
+.pexels{background-image:url("img/pexels.jpg");
+	background-size: cover;}
+
+.fascia{background-image:url("img/fotosfocata.jpg");
+	height:500px;
+	background-size: cover;}
+
+.spazio{margin-top:30px;}
+
+/*inizio IMG CATALOGO*/
+
+.fascia:hover{opacity:0.9;
+    transition: 0.8s;}
+
+.fascia2{background-image:url("img/strage1.jpg");
+	height:500px;
+    background-size: cover;}
+
+.fascia2:hover{opacity:0.9;
+    transition: 0.8s;}
+
+.fascia3{background-image:url("img/battesimo1.jpg");
+	height:500px;
+    background-size: cover;}
+
+.fascia3:hover{opacity:0.9;
+    transition: 0.8s;}
+
+.fascia4{background-image:url("img/cagnacci1.jpg");
+	height:500px;
+    background-size: cover;}
+
+.fascia4:hover{opacity:0.9;
+    transition: 0.8s;}
+
+.fascia5{background-image:url("img/stele1.jpg");
+	height:500px;
+    background-size: cover;}
+
+.fascia5:hover{opacity:0.9;
+    transition: 0.8s;}
+
+.fascia6{background-image:url("img/paolomonti1.jpg");
+	height:500px;}
+
+.fascia6:hover{opacity:0.9;
+    transition: 0.8s;}
+
+/*fine IMG CATALOGO*/
+
+.testo{color:white;
+	text-align:center;}
+
+.cover{background-repeat: no-repeat;
+    background-size: cover; }
+
+.margine{margin-top:200px;}
+
+.pagination{margin:40px auto;
+    color:black;
+    float:right;}
+
+/*.imagecorta{background-image:url("img/foto.jpg");
+	background-size:cover;
+	height:350px;
+	background-repeat: no-repeat;}*/
+
+.imageitem{background-image:url("img/annunciazione.jpg");
+	background-size:contain;
+	height:450px;
+	background-repeat: no-repeat;}
+
+.freccia{width:20px;
+	margin:110px auto;}
+
+.freccia:hover{margin-top:120px;
+    transition: 0.7s;}
+
+.center{
+    text-align:center;}
+
+.noshade{box-shadow:none;}
+
+/*input di ricerca nelle pagine luoghi e persone*/
+.input-group{margin-top:100px;
+	padding-left:100px;
+	padding-right: 100px;
+    width:80%;
+    margin:30px auto;}
+
+.input-group-text{
+    background-color:#94a389;}
+
+.search{width:20px;}
+
+.didot{font-family:'Didot';}
+
+.centro{text-align:center;
+    margin:0px auto;}
+
+aside{background-color:#F6F6F6;
+    float:right;
+    margin-top:50px;
+    padding:30px;
+    width:200px;}
+
+.linksottolineato{text-decoration: underline;
+    color:black;}
+
+.linksottolineato:hover{text-decoration: dotted;
+    color:black;}
+
+.marginesotto{margin-bottom:-30px;}
+
+.cardgrande{width:60%;}
+
+.decoro{text-decoration: none;}
+
+.top{margin-top:40px;}
+
+.about{color:white;
+    margin-bottom:30px;
+    margin-left:10px;}
+
+.about:hover{color:gray;}
+
+.about:first-child{margin-left:-10px;
+padding-left:50px;}
+
+
+/* codice della linea del tempo*/
+.timeline_area {
+    position: relative;
+    z-index: 1;
+}
+.single-timeline-area {
+    position: relative;
+    z-index: 1;
+    padding-left: 180px;
+}
+@media only screen and (max-width: 575px) {
+    .single-timeline-area {
+        padding-left: 100px;
+    }
+}
+.single-timeline-area .timeline-date {
+    position: absolute;
+    width: 180px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -ms-grid-row-align: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    padding-right: 60px;
+}
+@media only screen and (max-width: 575px) {
+    .single-timeline-area .timeline-date {
+        width: 100px;
+    }
+}
+.single-timeline-area .timeline-date::after {
+    position: absolute;
+    width: 3px;
+    height: 100%;
+    content: "";
+    background-color: #ebebeb;
+    top: 0;
+    right: 30px;
+    z-index: 1;
+}
+.single-timeline-area .timeline-date::before {
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background-color: black;
+    content: "";
+    top: 50%;
+    right: 26px;
+    z-index: 5;
+    margin-top: -5.5px;
+}
+.single-timeline-area .timeline-date p {
+    margin-bottom: 0;
+    color: black;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.single-timeline-area .single-timeline-content {
+    position: relative;
+    z-index: 1;
+    padding: 30px 30px 25px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    -webkit-box-shadow: 0 0.25rem 1rem 0 rgba(47, 91, 234, 0.125);
+    box-shadow: 0 0.25rem 1rem 0 rgba(47, 91, 234, 0.125);
+    border: 1px solid #ebebeb;
+}
+
+.single-timeline-area .single-timeline-content .timeline-icon {
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+    width: 30px;
+    height: 30px;
+    background-color: #f1c40f;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 30px;
+    flex: 0 0 30px;
+    text-align: center;
+    max-width: 30px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.single-timeline-area .single-timeline-content .timeline-icon i {
+    color: #ffffff;
+    line-height: 30px;
+}
+.single-timeline-area .single-timeline-content .timeline-text h6 {
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+}
+.single-timeline-area .single-timeline-content .timeline-text p {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.single-timeline-area .single-timeline-content:hover .timeline-text h6,
+.single-timeline-area .single-timeline-content:focus .timeline-text h6 {
+    color: gray;
+}
+
+.custom-tooltip {
+  --bs-tooltip-bg: var(--bs-primary);
+}
+
+@media only screen and (max-width: 575px) {
+    .single-timeline-area .single-timeline-content {
+        padding: 20px;
+    }
+}
+/* fine codice linea del tempo*/
+
+.full{width:100%;}
+
+.colore{color:white;}
+
+.colore:hover{color:gray;}
+
+.none{text-decoration: none;
+    color:black;}
+
+.firma{background-image:url("img/firma.jpg");
+    width:330px;
+    opacity:0.2;
+    margin-left:100px;}
+
+.map{width:100%;
+    height:500px;}
+
+.titoloelenco{font-size:16pt;
+    font-family:'Raleway';}
+
+@media only screen and (max-width:725px){
+    .nero1{height:0px;}
+}
+
+.space{margin:10px;}
+
+/* VIOLA:QUESTA è L'IMG PER L'AERTURA DELLA MOSTRA*/
+
+.fascia7{background-image:url("img/sfondocleopatra.png");
+    height:500px;
+    background-size: cover;}
+
+.fascia7:hover{opacity:0.9;
+    transition: 0.8s;}
+
+.fascia8{background-image:url("img/deposizione.png");
+    height:500px;
+    background-size: cover;}
+
+.fascia8:hover{opacity:0.9;
+    transition: 0.8s;}
+
+.fascia9{background-image:url("img/barocci.png");
+    height:500px;
+    background-size: cover;}
+
+.fascia9:hover{opacity:0.9;
+    transition: 0.8s;}
+
+.fascia10{background-image:url("img/correggio.png");
+    height:500px;
+    background-size: cover;}
+
+.fascia10:hover{opacity:0.9;
+    transition: 0.8s;}
+
+.fascia11{background-image:url("img/reni.png");
+    height:500px;
+    background-size: cover;}
+
+.fascia11:hover{opacity:0.9;
+    transition: 0.8s;}
+
+.fascia12{background-image:url("img/burri.png");
+    height:500px;
+    background-size: cover;}
+
+.fascia12:hover{opacity:0.9;
+    transition: 0.8s;}
+
+.fascia13{background-image:url("img/raffaello.png");
+    height:500px;
+    background-size: cover;}
+
+.fascia13:hover{opacity:0.9;
+    transition: 0.8s;}
+
+
+.indent{padding-left:80px;
+    padding-right:80px;
+    color:black;
+    font-size:14px;
+    text-indent: 20px;}
+
+

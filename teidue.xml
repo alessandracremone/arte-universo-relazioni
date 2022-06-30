@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>I Carracci</title>
+			<author> André, Chastel (1912-1990)</author>
+			<respStmt>
+				<resp>editor</resp>
+				<name> André Chastel</name>
+			</respStmt>
+			<respStmt xml:id="ACR">
+			<resp>Marked in XML/TEI by</resp>
+			<name>Alessandra Cremone</name>
+		</respStmt>
+		</titleStmt>
+		<editionStmt>
+			<edition>Edition of 
+			<date> Settembre 1956</date>
+		</edition>
+		<author>André Chastel</author>
+		<editor>Le Monde</editor>
+		</editionStmt>
+		<publicationStmt>
+			<publisher>Arte un universo di relazioni</publisher>
+			<date>2022</date>
+			<pubPlace>Bologna</pubPlace>
+			<availability>
+				<p>No commercial use</p>
+			</availability>
+		</publicationStmt>
+		<sourceDesc>
+			<p> Articolo di Le Monde trascritto sul volume 'Arte un universo di relazioni'</p>
+			<p>I Carracci - André Chastel -  Rolo Banca 1473
+				<date>2002</date>
+			</p>
+		</sourceDesc>
+	</fileDesc>
+	<profileDesc>
+		<langUsage>
+			<language ident="it">Italiano</language>
+		</langUsage>
+		<particDesc>
+			<listPerson type="cited-author">
+				<person xml:id="LC" role="painter"> 
+					<persName sameAs="https://viaf.org/viaf/29596926/
+						https://www.worldcat.org/identities/lccn-n82024033/">Ludovico Carracci (1555-1619)</persName>
+				</person>
+				<person xml:id="ANC" role="painter">
+					<persName sameAs="http://viaf.org/viaf/12405951
+						https://www.worldcat.org/identities/lccn-n80043473/">Annibale Carracci (1560-1609)</persName>
+				</person>
+				<person xml:id="AGC" role="painter">
+					<persName sameAs="http://viaf.org/viaf/61617497
+						https://www.worldcat.org/identities/lccn-n87839265/">Agostino Carracci (1557-1602)</persName>
+				</person>
+
+			<person xml:id="AE" role="author">
+					<persName sameAs="http://viaf.org/viaf/39389491
+						https://www.worldcat.org/identities/lccn-n80024300/">Andrea Emiliani (1931-2019)</persName>
+				</person>
+
+			<person xml:id="MS" role="author">
+					<persName sameAs="http://viaf.org/viaf/24733437
+						https://www.worldcat.org/identities/lccn-n91113624/">Michela Scolaro</persName>
+				</person>
+			<person xml:id="AC" role="author">
+					<persName sameAs="http://viaf.org/viaf/9844501
+						https://www.worldcat.org/identities/lccn-n80006261/">André Chastel (1912-1990)</persName>
+			</person>
+			<person xml:id="JP" role="painter">
+					<persName sameAs="http://viaf.org/viaf/110043526
+					https://www.worldcat.org/identities/lccn-n85800632/">Jacopo Pontormo (1494-1556)</persName>
+			</person>
+			<person xml:id="L" role="painter">
+					<persName sameAs="http://viaf.org/viaf/74123438
+					https://www.worldcat.org/identities/lccn-n85341207/">Luca Cambiaso (1527-1585)</persName>
+			</person>
+			<person xml:id="GR">
+					<persName sameAs="http://viaf.org/viaf/74007636
+						https://www.worldcat.org/identities/lccn-n50065111/">Giulio Romano (1499-1546)</persName>
+			</person>
+			<person xml:id="TG" role="artist">
+					<persName sameAs="http://viaf.org/viaf/64128788
+						https://www.worldcat.org/identities/lccn-n50016306/">Gericault (1791-1824)</persName>
+			</person>
+			<person xml:id="DM" role="historian">
+					<persName sameAs="http://viaf.org/viaf/79079555
+						https://www.worldcat.org/identities/lccn-n83015506/">Denis Mahon (1910-2011)</persName>
+			</person>
+			<person xml:id="TV" role="artist">
+					<persName sameAs="http://viaf.org/viaf/109266837
+						http://viaf.org/viaf/109266837">Tiziano (1489-1576)</persName>
+			</person>
+			<person xml:id="C" role="artist">
+					<persName sameAs="http://viaf.org/viaf/97748522
+						https://www.worldcat.org/identities/lccn-n80160167/">Correggio (1489-1534)</persName>
+			</person>
+			<person xml:id="R" role="artist">
+					<persName sameAs="http://viaf.org/viaf/64055977
+						https://www.worldcat.org/identities/lccn-n79041756/">Raffaello(1483-1520)</persName>
+			</person>
+			<person xml:id="RL" role="historian">
+					<persName sameAs="http://viaf.org/viaf/39380437
+						https://www.worldcat.org/identities/lccn-n81032431/">Roberto Longhi (1890-1970)</persName>
+			</person>
+			<person xml:id="HB" role="historian">
+					<persName sameAs="http://viaf.org/viaf/55302329
+						https://www.worldcat.org/identities/lccn-nr90019994/">Heinrich Bodmer (1885-1950)</persName>
+			</person>
+			<person xml:id="NP" role="painter">
+					<persName sameAs="http://viaf.org/viaf/24606800
+						https://www.worldcat.org/identities/lccn-n80028152/">Nicolas Poussin (1594-1665)</persName>
+			</person>
+			<person xml:id="PR" role="painter">
+					<persName sameAs="http://viaf.org/viaf/56647196
+						https://www.worldcat.org/identities/lccn-n79055561/">Peter Paul Rubens (1577-1640)</persName>
+			</person>
+
+			<person xml:id="MB" role="artist">
+					<persName sameAs="http://viaf.org/viaf/24585191
+						https://www.worldcat.org/identities/lccn-n80152368/">Michelangelo Buonarroti (1475-1564)</persName>
+			</person>
+
+			<person xml:id="CEG" role="historian">
+					<persName sameAs="http://viaf.org/viaf/36931439
+						https://www.worldcat.org/identities/lccn-n80002573/">Cesare Gnudi (1910-1980)</persName>
+			</person>
+			</listPerson>
+
+		</particDesc>
+	</profileDesc>
+</teiHeader>
+
+<text>
+	<front>
+		<titlePage>
+			<docTitle>
+			<titlePart>I Carracci</titlePart>
+			</docTitle>
+		</titlePage>
+		<docAuthor>
+		<persName role="author" ref="#AC">
+			<forename>André</forename>
+			<surname>Chastel</surname>
+		</persName>
+	</docAuthor>
+		<docTitle>
+			<titlePart type="main">L'arte un universo di relazioni. Le mostre di Bologna dal
+				<date notBefore="1950" notAfter="2001">1950 al 2001</date></titlePart>
+			<titlePart type="sub"> a cura di 
+			<persName>
+				<forename>Andrea </forename> <surname>Emiliani</surname>
+				e <forename>Michela </forename><surname>Scolaro</surname>
+			</persName>
+		</titlePart>
+		</docTitle>
+
+	<docImprint>
+		<pubPlace>
+			<name type="city">Bologna</name>
+		</pubPlace>
+
+		<publisher>
+			<persName>
+				<forename>Andrea</forename>
+				<surname>Emiliani</surname>
+				<forename>Michela</forename>
+				<surname>Scolaro</surname>
+			</persName>
+		</publisher>
+
+	<docDate>
+		<date from="1956-09-01" to="1956-10-31">1 Settembre - 31 Ottobre 1956</date>
+	</docDate>
+	</docImprint>
+</front>
+
+	<body>
+		<div type="contents">
+			<head>
+				<quote>“Le mostre di quest’anno in <country>Italia</country> sono state dedicate che non godono della fama <soCalled>“internazionale”</soCalled> dei grandi maestri o che, come i <persName role="painters">Carracci</persName>, hanno visto scemare la propria popolarità presso il pubblico moderno. Sono invece pittori di impronta squisitamente italiana; sono quasi tutti dotati di una intensità di effetti e spesso di un ampio ventaglio di sentimenti – freddezza affettata o al contrario esuberanza, spessore, ironia - che di primo acchito ci potrebbero sgomentare e risultare totalmente estranei, ma che rispecchiano una grande sensibilità e una forte personalità. A coronamento di tutte queste manifestazioni e in un certo senso a stabilire un nesso tra loro, la tanta attesa mostra sui <persName><surname>Carracci</surname></persName> che, per evitare la calura dell’estate emiliana, sboccia come un fiore d’autunno.”</quote>	
+			</head>
+		</div>
+			<div type="paragrafo1">
+				<p>“Una questione di maturità”</p>
+			<p>È facile per tutti sbagliarsi nel giudicare gli artisti italiani del <date when="1570">1570</date> o del <date when="1600">1600</date> basandosi sui quadri esposti nei musei ed è tanto più facile per i francesi, avvezzi ai piaceri dei quadri da cavalletto. La pittura italiana è sui muri, decora i soffitti tra modanature e stucchi; ricopre le pareti spesso immense dei palazzi. È innanzitutto di un respiro monumentale, secondo gli antichi canoni mediterranei e ci faremmo un’idea incompleta se non addirittura errata di 
+			<persName ref="#JP">Pontormo</persName> 
+			se ignorassimo le sue grandi decorazioni lineari e leggere o, ancora peggio, se ignorassimo di 
+			<persName ref="#L">Cambiaso</persName> 
+			le folli e strabilianti mostruosità sospese alle volte dei palazzi, soprattutto le battagli epiche, tra 
+			<persName ref="#GR"> Romano</persName> e 
+			<persName ref="#TG">Géricault</persName>, a <placeName>palazzo Spinola</placeName> 
+			(un tempo <persName>Antonio Doria</persName>) dove esprime il meglio del suo estro più genuino. Sarebbe opportuno un breve itinerario dei palazzi che bisogna visitare: dovrebbe pensarci chiunque organizzi una mostra di questo genere.</p>
+		</div>
+
+
+			<div type="paragrafo2">
+			<p>È l’aspetto decorativo su cui si concentrano maggiormente i <persName><surname>Carracci</surname>
+			<forename>Ludovico</forename></persName>e i due cugini, 
+			<forename>Annibale</forename> e <forename>Agostino</forename>
+			, si fanno notare per la prima volta a <placeName> Palazzo Fava</placeName>, verso il <date when="1584">1584</date>; poi già con l’ampiezza e la varietà dello stile ‘eroico’ a <placeName>Palazzo Magnani</placeName>, verso il <date when="1590">1590</date>, 
+			entrambi palazzi di 
+			<placeName> Bologna</placeName>; e un pregevole recente studio ha dimostrato come i molteplici aspetti della loro arte, la tensione verso una sorta di <soCalled>‘verismo’</soCalled> che prende le distanze dall’affettazione di moda, una maggiore unità di toni, l’interesse per il paesaggio, nascono dalla creazione di queste composizioni romanzesche, storiche, un po’ cariche, in cui si aggirano Giasone, Medea, Romolo e Remo. Della galleria di <placeName> palazzo Farnese</placeName>, potente creazione di <forename>Annibale</forename> dal <date from="1597" to="1604">1597 al 1604</date>, che suscita l’indignazione di La Bruyère al vedere 
+			<quote>‘le impudicizie degli dei, la Venere, il Ganimede e gli altri nudi dei Carracci […] fatti per dei Principi della Chiesa’</quote>
+			 ma che è una delle prime e già delle più alte espressioni della vitalità <soCalled>‘barocca’</soCalled>, si è trattato in tutti i modi possibili; in una splendida collezione costituita da oltre 
+			 <num>250</num> disegni raccolti con estrema cura, una <num>cinquantina</num> riguarda alcuni particolari della galleria: figure in movimento, busti di ignudi, studiati come elaborati ingranaggi. Si entra nell’atelier dell’artista, dove tutto prende forma. L’espressione, concepita con tanta generosità da <persName ref="#CG"> Cesare Gnudi</persName> e dai suoi collaborati, è quindi di una fedeltà e di una precisione esemplari.
+			</p>
+		</div>
+
+		<div type="paragrafo3">
+			<p> Non si può dire comunque che le opere dei maestri di 
+				<placeName><country key="IT">Bologna</country>
+				<location>
+				<geo>	44°29′38″N 11°20′34″E </geo>
+				</location>
+				</placeName>
+				, quei fondatori dell' <name type="institution"> "Accademia degli "Incamminati” o dei “Desiderosi”</name>, oggetto di una ridda dei pregiudizi, siano di un gusto attuale. Tacciate di <soCalled> ‘classicismo, accademismo, eclettismo’</soCalled> sembra ci sia impedito di goderne. Obbiettivo primario della mostra, con i suoi circa <num>115</num> quadri, di cui più della metà di <forename>Annibale</forename>, il ‘temperamento’ della scuola e una <num>quarantina</num> del cugino Ludovico, la <soCalled>‘testa’</soCalled> del movimento, è proprio quello di recuperare tutto ciò che andrebbe perduto se ci accontentassimo di pregiudizi e definizioni preconcette. A proposito dell’ultima delle <num>tre</num> arbitrarie, quella dell’eclettismo, <persName ref="#DM">Denis Mahon</persName>
+			ha dimostrato con spirito come la famosa ricetta dello stile ideale del quadro-cocktail -<quote>‘la potenza di <persName ref="MB">Michelangelo</persName>, la naturalezza di <persName ref="TV">Tiziano</persName>, la purezza di <persName ref="C">Correggio</persName>, l’armonia di <persName role="artist" ref="R"> Raffaello</persName>, ecc.- non corrisponde affatto all’insegnamento dei <persName>Carracci</persName>; è stata coniata a posteriori, a titolo di encomio, dagli storici bolognesi e questa ‘aggiunta di valore’ </quote> che a nostro modo di sentire è invece il modo migliore per condannare uno stile, è un ingenuo tentativo di tessere le lodi supreme. Voler cercare in queste opere un mosaico di elementi e di intenti, significa non concedersi il piacere di apprezzare quello che è stato il vero apporto creativo dei <surname>Carracci</surname>, che consiste proprio nel rendere la flessibilità e l’unità laddove i predecessori si davano alla sovrapposizione e al paradosso. La <name type="opera"> Resurrezione del Cristo</name> <placeName>(Louvre)</placeName>
+			del <date when="1593">1593</date> di <forename>Annibale</forename> è stata acclamata da tutti gli storici antichi come vero evento, per la facilità e la foga con cui tutti i motivi sono coordinati. Parimenti, nella <name type="opera">Conversione di San Paolo</name> <placeName>(Bologna)</placeName> è lo stesso <forename>Ludovico</forename> a voler essere copioso, completo, senza cadere nella frammentarietà; nella splendida <name type="opera"> Predica del Battista</name> (id.) del <date when="1592">1592</date>
+			, dai forti giochi di rosso scuro e arancio, aveva chiarito con vigore la sua posizione nei confronti dei veneziani, con più malinconia della sognante <name type="opera">Trinità</name> 
+			<placeName>(Vaticano)</placeName>; sarà nel tentativo di indagare e di rinnovare l’arte delle ‘grandi macchine’ dopo la scomparsa di <forename>Annibale</forename>, che <forename>Ludovico</forename> diventerà più pesante e discutibile, ma sempre sicuro nel <name type="opera">Martirio di Santa Margherita</name> in cui il boia oscilla curiosamente su di un piede.</p>
+		</div>
+
+		<div type="paragrafo4">
+		<p>È altrettanto facile controbattere all’appellativo di accademico. Non l’incertezza, ma la curiosità d’animo e la maestria dello stile ispirarono i <surname>Carracci</surname>. In <forename>Annibale</forename> troviamo una temerarietà che si esprime a volte nel brio naturalista e gioviale, nel senso del soggetto terra terra, di cui sono uno splendido esempio i famosi <name type="opera"> La bottega del macellaio</name>
+		<placeName> <country key="UK">(Oxford)</country>
+			<location>
+				<geo> 51.75222-1.25596 </geo>
+			</location>
+		</placeName>, 
+		<name type="opera">Il ragazzo che ride</name> <placeName>(Galleria Borghese)</placeName>, e altre volte con il suo esplorare paesaggi lussureggianti e unificati, o ancora con una delle stupefacenti immagini pagane, 
+			un po' sfrenate, di cui è ricca la <placeName>galleria Farnese</placeName>. 
+			La varietà di intenti è testimonianza di una cultura forte e attiva: impossibile coglierne la sostanza se si parte dal preconcetto che l’epoca fosse preda di chissà quale tirannia umanista (e da parte di chi?) 
+			mentre in realtà tutti i motivi antichi sono reinterpretati con passione e se ci si dimentica inoltre del tacito accordo con la Chiesa della Controriforma per riportare ogni licenza nell’arte profana e dare maggiore serietà all’arte sacra. La scena dell’
+			<name type="opera">Elemosina di San Rocco</name>, sovraffollata e davvero un po’ complessa 
+		<placeName><country key="DE">(Dresda)</country>
+			<location>
+				<geo> 51°3'3.2"N, 13°44'17.95"E </geo>
+			</location></placeName> 
+		e la <name type="opera"> Pietà</name>, semplice, intensa, con i suoi verdi e i viola avvincenti <placeName><country key="IT">(Napoli)</country>
+		<location>
+		<geo>40°51'22.72"N, 14°14'47.08"E</geo>	
+		</location>
+	</placeName> sono indicativi delle nuove tendenze scoperte da <forename>Annibale</forename>. Avendo ben chiari questi concetti basilari, può restare incerta, senza creare problemi, l’attribuzione di un quadro a uno o l’altro dei cugini, nonostante l’impegno profuso per essere precisi nella mostra di <placeName>Bologna.</placeName>
+		<quote>‘Capire i Carracci è una questione di maturità’</quote>
+		, scriveva <date>vent’anni fa</date> <persName ref="RL">Roberto Longhi</persName>, l’unico storico all’epoca, con 
+		<persName ref="HB">Heinrich Bodmer,</persName>
+		a dedicare ai bolognesi tutta l’attenzione che ora ci serve. La maturità e la cultura costituiscono la vera prerogativa dei <persName>Carracci</persName>. Sono i diretti antesignani della poetica classica e di quella dei Barocchi, <persName ref="NP">Poussin</persName> e 
+		<persName ref="PR">Rubens</persName>, per la loro profonda attenzione per la natura ma anche per quel loro sentire la pittura come un tutt’uno che essa è come un romanzo o una epopea continua, di cui ogni pittore è l’erede.
+		<name type="journal">[“Le Monde”</name>, <date when="1956-09">settembre 1956]</date>
+		</p>
+	</div>
+	</body>
+</text>
+</TEI>
