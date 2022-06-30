@@ -1,4 +1,5 @@
 # Arte-universo-relazioni
+##Sito web progettato da Alessandra Cremone e Viola Mureddu
 
 Sito web di catalogazione storico-artistica sugli item delle mostre che si sono susseguite a Bologna dal 1950 al 2001. L’obiettivo di questa catalogazione è mostrare la fervida vita culturale, post seconda guerra mondiale fino al primo duemila, tramite la descrizione catalografica di item di natura eterogenea. Abbiamo adoperato i linguaggi HTML, CSS, JS e il framework Bootstrap per la realizzazione delle componenti logiche delle nostre pagine. 
 
