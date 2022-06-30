@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:cdwalite="https://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd" xml:id="Arte-universo-di-relazioni">
+	<author>
+		<object n="1" xml:id="Morte di Cleopatra - Guido Cagnacci">
+			<dc:type>Dipinto</dc:type>
+			<cdwalite:objectWorkTypeWrap>
+				<cdwalite:objectWorkType termsource="Thesaurus BNCF" termsourceID="3793">Dipinto</cdwalite:objectWorkType>
+			</cdwalite:objectWorkTypeWrap>
+
+			<dc:title>Morte di Cleopatra</dc:title>
+			<cdwalite:titleWrap>
+				<cdwalite:titleSet> 
+					<cdwalite:title pref="preferred" lang="italian">Morte di Cleopatra</cdwalite:title>
+					<cdwalite:sourceTitle>Catalogo Generale dei Beni Culturali</cdwalite:sourceTitle>
+				</cdwalite:titleSet>
+				<cdwalite:titleSet>
+					<cdwalite:title pref="altenate" lang="Italian">Cleopatra morente</cdwalite:title>
+				</cdwalite:titleSet>
+			</cdwalite:titleWrap>
+
+			<dc:creator>Guido Cagnacci</dc:creator>
+			<cdwalite:displayCreator>Guido Cagnacci (Italiano, 1601-1663)</cdwalite:displayCreator>
+			<cdwalite:indexCreatorWrap>
+				<cdwalite:indexingCreatorSet>
+					<cdwalite:nameCreatorSet>
+						<cdwalite:nameCreator type="personalName" termsource="VIAF" termsourceID="68012255">Cagnacci, Guido</cdwalite:nameCreator>
+					</cdwalite:nameCreatorSet>
+					<cdwalite:sourceNameCreator> Catalogo generale dei Beni Culturali</cdwalite:sourceNameCreator>
+					<cdwalite:nationalityCreator>Italiano</cdwalite:nationalityCreator>
+					<cdwalite:vitalDatesCreator birthdate="1601-01-13" deathdate="1663">1601-1663</cdwalite:vitalDatesCreator> <cdwalite:genderCreator>maschio</cdwalite:genderCreator> <cdwalite:roleCreator termsource="Thesaurus BNCF" termsourceID="3783">pittore</cdwalite:roleCreator>
+				</cdwalite:indexingCreatorSet>
+			</cdwalite:indexCreatorWrap>
+
+			<dc:format>158x120</dc:format>
+			<cdwalite:displayMeasurements>158x120 cm
+			</cdwalite:displayMeasurements>
+			<cdwalite:indexingMeasurementsWrap> 
+				<cdwalite:indexingMeasurementsSet> 
+					<cdwalite:measurementsSet value="158" unit="cm" type="height"> 
+					</cdwalite:measurementsSet> <cdwalite:measurementsSet value="120" unit="cm" type="width"> </cdwalite:measurementsSet> 
+				</cdwalite:indexingMeasurementsSet> 
+			</cdwalite:indexingMeasurementsWrap> 
+
+			<dc:type>tela, pittura a olio</dc:type>
+			<cdwalite:displayMaterialsTech>tela/pittura ad olio </cdwalite:displayMaterialsTech>
+			<cdwalite:indexingMaterialsTechWrap> 
+				<cdwalite:indexingMaterialsTechSet> 
+					<cdwalite:termMaterialsTech termsource="Thesaurus BNCF" termsourceID="27936">pittura ad olio</cdwalite:termMaterialsTech>
+					<cdwalite:termMaterialsTech type="support">tela </cdwalite:termMaterialsTech>
+				</cdwalite:indexingMaterialsTechSet> 
+			</cdwalite:indexingMaterialsTechWrap> 
+			<cdwalite:styleWrap>
+				<cdwalite:style termsource="Thesaurus BNCF" termsourceID="18806">Barocco</cdwalite:style>
+			</cdwalite:styleWrap>
+
+			<dc:date>1660-1663</dc:date>
+			<cdwalite:displayCreationDate>dipinto tra il 1660 e il 1663
+			</cdwalite:displayCreationDate>
+			<cdwalite:indexingDatesWrap> 
+				<cdwalite:indexingDatesSet> <cdwalite:earliestDate>1660</cdwalite:earliestDate> <cdwalite:latestDate>1663</cdwalite:latestDate> 
+				</cdwalite:indexingDatesSet> 
+			</cdwalite:indexingDatesWrap>
+
+			<dc:provenance>Pinacoteca di Brera</dc:provenance>
+			<dc:coverage> Italia </dc:coverage>
+			<dc:coverage>Via Brera, 28, Milano (MI)</dc:coverage> 
+			<cdwalite:locationWrap> 
+				<cdwalite:locationSet>
+				<cdwalite:locationName type="currentRepository">Pinacoteca di Brera (Milano, MI, Italia)</cdwalite:locationName><cdwalite:workID type="inventario">2341</cdwalite:workID></cdwalite:locationSet>
+			</cdwalite:locationWrap>
+
+			<dc:subject>Arti Visive</dc:subject>
+			<cdwalite:indexingSubjectWrap> 
+				<cdwalite:indexingSubjectSet> 
+					<cdwalite:subjectTerm>Morte di Cleopatra</cdwalite:subjectTerm> 
+					<cdwalite:subjectTerm type="conceptTerm" termsource="Thesaurus BNCF" termsourceID="10545">ritratto</cdwalite:subjectTerm>
+				</cdwalite:indexingSubjectSet> 
+			</cdwalite:indexingSubjectWrap>
+
+			<cdwalite:indexingSubjectWrap> 
+				<cdwalite:indexingSubjectSet type="description"> 
+					<cdwalite:subjectTerm type="conceptTerm"
+						termsource="AAT">sedia</cdwalite:subjectTerm> <cdwalite:subjectTerm 
+						type="conceptTerm">nudità</cdwalite:subjectTerm> <cdwalite:subjectTerm 
+						type="conceptTerm">serpente</cdwalite:subjectTerm> <cdwalite:subjectTerm 
+						type="conceptTerm">rosso</cdwalite:subjectTerm><cdwalite:subjectTerm 
+						type="conceptTerm">blu</cdwalite:subjectTerm> 
+					</cdwalite:indexingSubjectSet> 
+				<cdwalite:indexingSubjectSet type="interpretation"> 
+					<cdwalite:subjectTerm type="conceptTerm">La solennità della morte nel potere</cdwalite:subjectTerm> 
+				</cdwalite:indexingSubjectSet> 
+			</cdwalite:indexingSubjectWrap>
+
+			<cdwalite:classificationWrap> 
+				<cdwalite:classification termsource="Thesaurus BNCF" termsourceID="3793">dipinto</cdwalite:classification> 
+			</cdwalite:classificationWrap>
+
+			<dc:description xml:lang="it">L'autore mette il focus sull'intimità e la sensualità della figura di Cleopatra, figura di potere femminile che riporta a se un richiamo antico e allo stesso tempo attuale. La staticità della scena rende il tempo di collocazione indefinito, come se la figura fosse dormiente e non senza vita. Il gioco delle luci rimanda a Cravaggio. </dc:description>
+			<cdwalite:descriptiveNoteWrap> 
+				<cdwalite:descriptiveNoteSet><cdwalite:descriptiveNote>L'autore mette il focus sull'intimità e la sensualità della figura di Cleopatra, figura di potere femminile che riporta a se un richiamo antico e allo stesso tempo attuale. La staticità della scena rende il tempo di collocazione indefinito, come se la figura fosse dormiente e non senza vita. Il gioco delle luci rimanda a Cravaggio.</cdwalite:descriptiveNote></cdwalite:descriptiveNoteSet> 
+			</cdwalite:descriptiveNoteWrap> 
+
+			<cdwalite:inscriptionsWrap> 
+				<cdwalite:inscriptions> La firma compare in latino nella aprte bassa del braccio sinistro della sedia in lettere capitali: Guidus Cagnaccius</cdwalite:inscriptions> 
+			</cdwalite:inscriptionsWrap>
+			
+			<dc:rights>Proprietà Sato</dc:rights>
+			<cdwalite:rightsWork>Proprietà dello stato</cdwalite:rightsWork>
+			<dc:identifier>0300180276</dc:identifier>
+			<dc:source>Catalogo Generale dei Beni Culturali</dc:source>
+			<cdwalite:recordWrap> 
+				<cdwalite:recordID>0300180276</cdwalite:recordID> 
+				<cdwalite:recordType>Opere/oggetti d'arte</cdwalite:recordType> 
+				<cdwalite:recordSource>https://catalogo.beniculturali.it/</cdwalite:recordSource> 
+			</cdwalite:recordWrap>
+		</object>
+	</author>
+</item>
+
