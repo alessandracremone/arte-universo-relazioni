@@ -97,9 +97,9 @@
 			<cdwalite:displayMeasurements>383x225cm </cdwalite:displayMeasurements>
 			<cdwalite:indexingMeasurementsWrap>
 				<cdwalite:indexingMeasurementSet>
-					<cdwalite:measurementsSet value="383" unit="cm" type="width">
+					<cdwalite:measurementsSet value="383" unit="cm" type="height">
 					</cdwalite:measurementsSet>
-					<cdwalite:measurementsSet value="225" unit="cm" type="height">
+					<cdwalite:measurementsSet value="225" unit="cm" type="width">
 					</cdwalite:measurementsSet>
 				</cdwalite:indexingMeasurementSet>
 			</cdwalite:indexingMeasurementsWrap>
