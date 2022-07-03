@@ -89,9 +89,7 @@
 			<person xml:id="GAD">
 				<persName sameAs="https://viaf.org/viaf/45100769">Giovanni Andrea Donducci dit Il Mastelletta</persName>
 			</person>
-			<person xml:id="">
-				<persName sameAs=""> </persName>
-			</person>
+			
 		</listPerson>
 	  </particDesc>
 	 </profileDesc>
