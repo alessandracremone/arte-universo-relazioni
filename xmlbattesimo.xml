@@ -66,10 +66,6 @@
 					<cdwalite:termMaterialsTech termsource="AAT" termsourceID="aat300410350" type="support">tela </cdwalite:termMaterialsTech>
 				</cdwalite:indexingMaterialsTechSet>
 			</cdwalite:indexingMaterialsTechWrap>
-
-			<cdwalite:styleWrap>
-				<cdwalite:style termsource="AAT" termsourceID="aat300021147">barocco </cdwalite:style>
-			</cdwalite:styleWrap>
 		
 
 			<cdwalite:indexingSubjectWrap>
